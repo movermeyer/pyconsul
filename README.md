@@ -1,12 +1,12 @@
 PyConsul
 ========
 
-[![Latest Version](https://pypip.in/v/pyconsul/badge.png)](https://pypi.python.org/pypi/pyconsul/)
+[![Latest Version](https://img.shields.io/pypi/v/pyconsul.svg)](https://pypi.python.org/pypi/pyconsul/)
 [![Build Status](https://api.shippable.com/projects/535e1b4d456b81c100ad365c/badge/master)](https://www.shippable.com/projects/535e1b4d456b81c100ad365c/builds/4)
 [![Coverage Status](https://coveralls.io/repos/hackliff/pyconsul/badge.png?branch=master)](https://coveralls.io/r/hackliff/pyconsul?branch=master)
 [![Code Health](https://landscape.io/github/hackliff/pyconsul/master/landscape.png)](https://landscape.io/github/hackliff/pyconsul/master)
 [![Requirements Status](https://requires.io/github/hackliff/pyconsul/requirements.png?branch=master)](https://requires.io/github/hackliff/pyconsul/requirements/?branch=master)
-[![License](https://pypip.in/license/pyconsul/badge.png)](https://pypi.python.org/pypi/pyconsul/)
+[![License](https://img.shields.io/pypi/l/pyconsul.svg)](https://pypi.python.org/pypi/pyconsul/)
 
 > Python client for [Consul][1]
 
